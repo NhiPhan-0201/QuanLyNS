@@ -722,6 +722,7 @@
             // 
             // panel4
             // 
+            this.panel4.BackgroundImage = global::BTL_QLNS.Properties.Resources.hinh_ong_gia_noel_11;
             this.panel4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel4.Location = new System.Drawing.Point(137, 509);
             this.panel4.Margin = new System.Windows.Forms.Padding(4);
